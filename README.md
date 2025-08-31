@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=Hello%2CThis+is+Kaung+Khant+Kyaw" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=Hello%2CThis+is+Kaung+Khant+Kyaw" alt="Typing SVG" /></a>
 ========================================================================================================================================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer+%7C+DevOps+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer" alt="Typing SVG" /></a>
 ------------------------------------------
 
 I've been diving deep into the world of web development for almost five years now, continuously honing my full-stack developer skills. And I'm not stopping there—I'm also on a continuous journey of learning DevOps, always looking to expand my knowledge across the entire software development lifecycle.
