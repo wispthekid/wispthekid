@@ -1,23 +1,15 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" width="70%">
-      <table border="0" cellspacing="0" cellpadding="0">
-        <tr>
-          <td align="left" valign="middle">
-            <h1 style="margin:0;">Kaung Khant Kyaw</h1>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://git.io/typing-svg">
-              <img
-                src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer"
-                alt="Typing SVG"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td align="left" valign="middle">
+      <div style="padding-top:18px;">
+        <h1 style="margin:0;">Kaung Khant Kyaw</h1>
+      </div>
+      <a href="https://git.io/typing-svg">
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer"
+          alt="Typing SVG"
+        />
+      </a>
     </td>
     <td align="right" valign="middle">
       <img
