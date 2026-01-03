@@ -4,7 +4,7 @@ Kaung Khant Kyaw
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer" alt="Typing SVG" /></a>
 ------------------------------------------
 
-I've been diving deep into the world of web development for almost five years now, continuously honing my full-stack developer skills. And I'm not stopping there—I'm also on a continuous journey of learning DevOps, always looking to expand my knowledge across the entire software development lifecycle.
+A Junior NextJS FullStack Developer specializing in building secure, production-grade applications and architecting scalable systems. My core capabilities include developing full-stack solutions using Next.js and TypeScript , implementing real-time features like order processing and role-based access control , and designing interactive data dashboards with personalized recommendation systems. I can integrate Google Generative AI and Tesseract OCR to build advanced computer vision applications and leverage Prisma ORM with PostgreSQL or MongoDB for efficient database management. Additionally, I am proficient in managing enterprise-scale deployment infrastructure using Docker and Kubernetes and optimizing big data search performance using Elasticsearch. My technical toolkit also spans Python, Java, Node.js, Express, FastAPI, React, and AWS.
 
 *   🌍  I'm based in Myanmar
 *   ✉️  You can contact me at [wispthekid404@gmail.com](mailto:wispthekid404@gmail.com)
