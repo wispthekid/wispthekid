@@ -1,6 +1,16 @@
-Kaung Khant Kyaw 
+<table width="100%">
+  <tr>
+    <td>
+      <h1>Kaung Khant Kyaw</h1>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" width="100"/>
+    </td>
+  </tr>
+</table>
+
 ========================================================================================================================================
-<img src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" width="150"/>
+
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer" alt="Typing SVG" /></a>
