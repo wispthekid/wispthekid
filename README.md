@@ -1,15 +1,14 @@
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <h1>Kaung Khant Kyaw</h1>
+    <td align="left">
+      <h1 style="margin:0;">Kaung Khant Kyaw</h1>
     </td>
     <td align="right">
-      <img src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" width="100"/>
+      <img src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" width="110"/>
     </td>
   </tr>
 </table>
 
-========================================================================================================================================
 
 
 
