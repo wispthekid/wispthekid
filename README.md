@@ -25,6 +25,9 @@
 
 A Junior NextJS FullStack Developer specializing in building secure, production-grade applications and architecting scalable systems. My core capabilities include developing full-stack solutions using Next.js and TypeScript , implementing real-time features like order processing and role-based access control , and designing interactive data dashboards with personalized recommendation systems. I can integrate Google Generative AI and Tesseract OCR to build advanced computer vision applications and leverage Prisma ORM with PostgreSQL or MongoDB for efficient database management. Additionally, I am proficient in managing enterprise-scale deployment infrastructure using Docker and Kubernetes and optimizing big data search performance using Elasticsearch. My technical toolkit also spans Python, Java, Node.js, Express, FastAPI, React, and AWS.
 
+![Bruno Pixels](https://github.com/user-attachments/assets/e5d1f660-c14e-44f8-bc9d-0552f13cf03a)
+
+
 *   🌍  I'm based in Myanmar
 *   ✉️  You can contact me at [wispthekid404@gmail.com](mailto:wispthekid404@gmail.com)
 *   🧠  Currently learning: DevOps, CI/CD, Containerization, Cloud Platforms  
