@@ -1,5 +1,4 @@
-Kaung Khant Kyaw
-![If the worlds not right_ Change it](https://github.com/user-attachments/assets/f9f0330d-ece1-41ee-b1ba-c0b64e83cf69)
+Kaung Khant Kyaw                                                                                                ![If the worlds not right_ Change it](https://github.com/user-attachments/assets/cba793b3-cf16-4166-ad47-262c552e30be)
 
 ========================================================================================================================================
 
