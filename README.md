@@ -1,18 +1,23 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left">
+    <td align="left" valign="middle">
       <h1 style="margin:0;">Kaung Khant Kyaw</h1>
+      <a href="https://git.io/typing-svg">
+        <img 
+          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer" 
+          alt="Typing SVG"
+        />
+      </a>
     </td>
-    <td align="right">
-      <img src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" width="110"/>
+    <td align="right" valign="middle">
+      <img 
+        src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" 
+        width="110"
+      />
     </td>
   </tr>
 </table>
 
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer" alt="Typing SVG" /></a>
 ------------------------------------------
 
 A Junior NextJS FullStack Developer specializing in building secure, production-grade applications and architecting scalable systems. My core capabilities include developing full-stack solutions using Next.js and TypeScript , implementing real-time features like order processing and role-based access control , and designing interactive data dashboards with personalized recommendation systems. I can integrate Google Generative AI and Tesseract OCR to build advanced computer vision applications and leverage Prisma ORM with PostgreSQL or MongoDB for efficient database management. Additionally, I am proficient in managing enterprise-scale deployment infrastructure using Docker and Kubernetes and optimizing big data search performance using Elasticsearch. My technical toolkit also spans Python, Java, Node.js, Express, FastAPI, React, and AWS.
