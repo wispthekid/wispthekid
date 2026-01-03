@@ -1,22 +1,33 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" valign="middle">
-      <h1 style="margin:0;">Kaung Khant Kyaw</h1>
-      <a href="https://git.io/typing-svg">
-        <img 
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer" 
-          alt="Typing SVG"
-        />
-      </a>
+    <td align="left" width="70%">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="left" valign="middle">
+            <h1 style="margin:0;">Kaung Khant Kyaw</h1>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://git.io/typing-svg">
+              <img
+                src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=0AFF3A&multiline=true&width=444&height=60&lines=FullStack+Developer"
+                alt="Typing SVG"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td align="right" valign="middle">
-      <img 
-        src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f" 
+      <img
+        src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f"
         width="110"
       />
     </td>
   </tr>
 </table>
+
 
 ------------------------------------------
 
