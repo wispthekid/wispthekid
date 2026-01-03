@@ -6,7 +6,8 @@
       </div>
       <a href="https://git.io/typing-svg">
         <img
-          src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&size=17&pause=1000&width=435&lines=NextJs+FullStack+Developer%7CDevOps+Enthsiast" alt="Typing SVG"
+          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&size=17&pause=1000&width=435&lines=NextJs+FullStack+Developer%7CDevOps+Enthsiast"
+          alt="Typing SVG"
         />
       </a>
     </td>
@@ -14,11 +15,11 @@
       <img
         src="https://github.com/user-attachments/assets/002b49ab-7e87-4cbc-ab4c-fed7cf79079f"
         width="110"
+        alt="Profile Image"
       />
     </td>
   </tr>
 </table>
-
 
 ------------------------------------------
 
