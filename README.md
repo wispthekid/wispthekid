@@ -29,7 +29,7 @@ A Junior NextJS FullStack Developer specializing in building secure, production-
 
 
 *   🌍  I'm based in Myanmar
-*   ✉️  You can contact me at [wispthekid404@gmail.com](mailto:wispthekid404@gmail.com)
+*   ✉️  You can contact me at [kaungkhantkyawz879@gmail.com](mailto:kaungkhantkyawz879@gmail.com),[wispthekid404@gmail.com](mailto:wispthekid404@gmail.com)
 *   🧠  Currently learning: DevOps, CI/CD, Containerization, Cloud Platforms  
 
   🛠️ Tech Stack
