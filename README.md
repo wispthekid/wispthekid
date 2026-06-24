@@ -23,7 +23,15 @@
 
 ------------------------------------------
 
-A Junior NextJS FullStack Developer specializing in building secure, production-grade applications and architecting scalable systems. My core capabilities include developing full-stack solutions using Next.js and TypeScript , implementing real-time features like order processing and role-based access control , and designing interactive data dashboards with personalized recommendation systems. I can integrate Google Generative AI and Tesseract OCR to build advanced computer vision applications and leverage Prisma ORM with PostgreSQL or MongoDB for efficient database management. Additionally, I am proficient in managing enterprise-scale deployment infrastructure using Docker and Kubernetes and optimizing big data search performance using Elasticsearch. My technical toolkit also spans Python, Java, Node.js, Express, FastAPI, React, and AWS.
+I am a Software Engineer focused on DevOps, cloud infrastructure, and scalable application deployment.
+
+I have hands-on experience with Docker, Kubernetes, AWS, CI/CD pipelines, Git, and GitHub Actions. My background in full-stack development with Next.js, TypeScript, Node.js, FastAPI, Prisma, and PostgreSQL helps me understand the complete software delivery lifecycle from development to deployment.
+
+I am interested in building reliable, automated, and maintainable systems using modern DevOps practices such as containerization, CI/CD automation, infrastructure management, monitoring, and cloud-native deployment.
+
+I have worked on projects including a Food POS System, digital archive platform, nutrition tracking application, and AI-powered OCR/HTR document processor. These projects helped me gain practical experience in backend systems, databases, authentication, containerized environments, and deployment workflows.
+
+Currently, I am improving my skills in AWS, Terraform, Kubernetes, GitOps, monitoring, and production-ready DevOps workflows.
 
 ![Bruno Pixels](https://github.com/user-attachments/assets/e5d1f660-c14e-44f8-bc9d-0552f13cf03a)
 
